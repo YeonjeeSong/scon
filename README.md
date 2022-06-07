@@ -1,4 +1,4 @@
-# SCON (Study Controller)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=SCON(StudyController)&height=70&fontSize=40&FontAlign=100)
 #### - 원생, 출결, 수납, 학습 관리부터 경영분석까지 쉽고 편리한 학원관리프로그램
 ### 목적
 > 사교육의 발달과 교육 환경의 변화 및 코로나19로 인해 최근 학원 폐업이 늘어났지만,  
@@ -30,7 +30,8 @@
 > <details>
 > <summary>3. 수납 관리 - 관리자</summary>
 > &emsp;&emsp;<b>구현 기능</b> : 수강 등록, 수강 내역 조회, 수강 상태 수정, 수강 내역 삭제, 환불 등록, 환불 내역 조회, 검색 & 페이징
-> <img src="f" alt="상담 신청 - 원생"/>
+> <img src="https://user-images.githubusercontent.com/93244406/172309381-c3ec001f-df69-4125-a79d-354ce6e39f59.gif" alt=수납 관리 - 관리자"/>
+> <img src="https://user-images.githubusercontent.com/93244406/172310278-5d90e471-cb79-4123-8442-ec61e1101388.gif" alt=수납 관리 - 관리자"/>
 > </details>
 > <details>
 > <summary>4. 수납 조회 - 원생</summary>
@@ -39,5 +40,6 @@
 > </details>
 > <details>
 > <summary>5. 페이징 & 검색</summary>
-> <img src="" alt="수납 조회 - 원생"/>
+> <img src="https://user-images.githubusercontent.com/93244406/172311612-b652ff67-009b-4f3e-ba7c-3a8dc360e035.gif" alt="페이징 & 검색"/>
+> <img src="https://user-images.githubusercontent.com/93244406/172312099-4f6d95b5-05a7-48a8-b11e-85225972bda4.gif" alt="페이징 & 검색"/>
 > </details>
