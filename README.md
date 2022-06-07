@@ -1,5 +1,5 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=SCON(StudyController)&height=70&fontSize=40&FontAlign=100)
-#### - 원생, 출결, 수납, 학습 관리부터 경영분석까지 쉽고 편리한 학원관리프로그램
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=SCON(StudyController)&height=60&fontSize=40&fontAlign=26)
+#### :clipboard: 원생, 출결, 수납, 학습 관리부터 경영분석까지 쉽고 편리한 학원관리프로그램
 ### 목적
 > 사교육의 발달과 교육 환경의 변화 및 코로나19로 인해 최근 학원 폐업이 늘어났지만,  
 > 소규모 학원 창업이나 1인 교습소·공부방 창업은 증가하는 추세가 되었다.  
