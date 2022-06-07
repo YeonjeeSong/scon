@@ -17,25 +17,26 @@
 ### 담당 기능
 > <details>
 > <summary>1. 상담 신청 - 원생</summary>
-> &emsp;&emsp;<b style="color:purple;">구현 기능</b> : 상담 등록, 상담 신청 내역 조회, 상담 신청 상세 조회, 상담 수정, 상담 삭제, 검색 & 페이징
+> &emsp;&emsp;<b style="color:purple;">구현 기능</b> : 상담 등록, 상담 신청 내역 조회, 상담 신청 상세 조회, 상담 수정, 상담 삭제, 페이징 & 검색
 > <img src="https://user-images.githubusercontent.com/93244406/172290413-04edde25-4b7a-4e1f-9eec-28eff3b54d9d.gif" alt="상담 신청 - 원생"/>
 > </details>
 > <details>
 > <summary>2. 상담 관리 - 관리자</summary>
 > &emsp;&emsp;<b>구현 기능</b> : 상담 신청 내역 조회, 상담 신청 상세 조회, 상담 완료 내역 조회,<br>
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;상담 일지 등록, 상담 일지 내역 조회, 상담 일지 상세 조회, 상담 일지 수정, 상담 일지 삭제, 검색 & 페이징
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;상담 일지 등록, 상담 일지 내역 조회, 상담 일지 상세 조회, 상담 일지 수정, 상담 일지 삭제,<br>
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;페이징 & 검색
 > <img src="https://user-images.githubusercontent.com/93244406/172299369-97e43582-a4eb-4cf0-a2cc-2c96f59c6f59.gif" alt="상담 관리 - 관리자"/>
 > <img src="https://user-images.githubusercontent.com/93244406/172299721-e98bcd6d-6c9f-4329-9ff8-0893bb18f796.gif" alt="상담 관리 - 관리자"/>
 > </details>
 > <details>
 > <summary>3. 수납 관리 - 관리자</summary>
-> &emsp;&emsp;<b>구현 기능</b> : 수강 등록, 수강 내역 조회, 수강 상태 수정, 수강 내역 삭제, 환불 등록, 환불 내역 조회, 검색 & 페이징
+> &emsp;&emsp;<b>구현 기능</b> : 수강 등록, 수강 내역 조회, 수강 상태 수정, 수강 내역 삭제, 환불 등록, 환불 내역 조회, 페이징 & 검색
 > <img src="https://user-images.githubusercontent.com/93244406/172309381-c3ec001f-df69-4125-a79d-354ce6e39f59.gif" alt=수납 관리 - 관리자"/>
 > <img src="https://user-images.githubusercontent.com/93244406/172310278-5d90e471-cb79-4123-8442-ec61e1101388.gif" alt=수납 관리 - 관리자"/>
 > </details>
 > <details>
 > <summary>4. 수납 조회 - 원생</summary>
-> &emsp;&emsp;<b>구현 기능</b> : 수강 내역 조회, 환불 내역 조회, 검색 & 페이징
+> &emsp;&emsp;<b>구현 기능</b> : 수강 내역 조회, 환불 내역 조회, 페이징 & 검색
 > <img src="https://user-images.githubusercontent.com/93244406/172296191-34cf9cec-1ca9-4fc3-bc5e-8890db36bd7d.gif" alt="수납 조회 - 원생"/>
 > </details>
 > <details>
