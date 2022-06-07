@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=SCON&nbsp;(Study&nbsp;Controller)&height=60&fontSize=40&fontAlign=27&fontAlignY=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=SCON&nbsp;(Study&nbsp;Controller)&height=60&fontSize=40&fontAlign=27&fontAlignY=70)
 ##### KH Final Project
 #### :clipboard: 원생, 출결, 수납, 학습 관리부터 경영분석까지 쉽고 편리한 학원관리프로그램
 ### 목적
@@ -46,4 +46,4 @@
 > <img src="https://user-images.githubusercontent.com/93244406/172312099-4f6d95b5-05a7-48a8-b11e-85225972bda4.gif" alt="페이징 & 검색"/>
 > </details>
 <br>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonjeeSong%2Fscon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonjeeSong%2Fscon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>
