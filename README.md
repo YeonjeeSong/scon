@@ -19,7 +19,7 @@
 > &nbsp;&nbsp;&nbsp;구현 기능 : 상담 등록, 상담 신청 내역 조회, 상담 신청 상세 조회, 상담 수정, 상담 삭제, 검색 & 페이징
 > &nbsp;&nbsp;<details>
 > <summary>화면</summary>
-> 
+> ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93244406/172286278-b908e247-f164-4576-8e04-f4af4eb91af4.gif)
 > </details>
 > <details>
 > <summary>2. 상담 관리 - 관리자</summary>
