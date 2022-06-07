@@ -15,11 +15,12 @@
 > Log4j  
 > JUnit5
 ### 담당 기능
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/93244406/172286437-821da4d4-a2e0-4e31-90d4-32dba8b84029.gif)
 > #### 1. 상담 신청 - 원생
 > &nbsp;&nbsp;&nbsp;구현 기능 : 상담 등록, 상담 신청 내역 조회, 상담 신청 상세 조회, 상담 수정, 상담 삭제, 검색 & 페이징
 > &nbsp;&nbsp;<details>
 > <summary>화면</summary>
-> ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93244406/172286278-b908e247-f164-4576-8e04-f4af4eb91af4.gif)
+> 
 > </details>
 > <details>
 > <summary>2. 상담 관리 - 관리자</summary>
