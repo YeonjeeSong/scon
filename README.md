@@ -16,6 +16,7 @@
 > <img src="https://img.shields.io/badge/Log4j-red?style=flat-square&logo=Log4j&logoColor=white"/>
 > <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
 ### 담당 기능
+> ###### 총 6명의 팀원
 > <details>
 > <summary>1. 상담 신청 - 원생</summary>
 > &emsp;&emsp;<b style="color:purple;">구현 기능</b> : 상담 등록, 상담 신청 내역 조회, 상담 신청 상세 조회, 상담 수정, 상담 삭제, 페이징 & 검색
