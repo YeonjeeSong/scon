@@ -175,21 +175,10 @@
 	<select id="selectLectureDetail" resultMap="lectureResultMap">
 		SELECT
 			   A.LEC_NO
-			 , A.LEC_PAY
-			 , A.LEC_STATUS
-			 , A.LEC_DISCOUNT
-			 , A.LEC_DELETE
-			 , A.ACC_STATUS
-			 , A.ACC_DATE
-			 , A.ACC_OPTION
 			 , A.MEMBER_ID
 			 , B.MEMBER_NAME
 			 , C.CLS_ID
-             , C.MEMBER_ID
 			 , C.CLS_NAME
-			 , C.CLS_PAY
-			 , C.CLS_START
-			 , C.CLS_END
 			 , D.REF_NO
 			 , D.REF_PAY
 			 , D.REF_DATE
