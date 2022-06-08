@@ -91,7 +91,7 @@ public class ConsultantHopeServiceImpl implements ConsultantHopeService {
 		int result = consultantHopeMapper.modifyConsultant(con);
 		
 		if(result <= 0) {
-			throw new Exception("상담 내용 수정 실패하였습니다");
+			throw new Exception("상담 내용 수정에 실패하였습니다");
 		}
 		
 		return result;
