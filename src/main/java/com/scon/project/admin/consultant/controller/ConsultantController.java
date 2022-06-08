@@ -5,7 +5,6 @@ import java.util.Locale;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
-import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ExceptionHandler;
@@ -21,7 +20,6 @@ import com.scon.project.admin.consultant.model.dto.ConsultantDTO;
 import com.scon.project.admin.consultant.model.service.ConsultantService;
 import com.scon.project.common.paging.Criteria;
 import com.scon.project.common.paging.Pagination;
-import com.scon.project.member.model.dto.UserImpl;
 
 import lombok.extern.slf4j.Slf4j;
 
