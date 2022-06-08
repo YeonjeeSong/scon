@@ -46,5 +46,3 @@
 > <img src="https://user-images.githubusercontent.com/93244406/172311612-b652ff67-009b-4f3e-ba7c-3a8dc360e035.gif" alt="페이징 & 검색"/>
 > <img src="https://user-images.githubusercontent.com/93244406/172312099-4f6d95b5-05a7-48a8-b11e-85225972bda4.gif" alt="페이징 & 검색"/>
 > </details>
-<br>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonjeeSong%2Fscon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>
